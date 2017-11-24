@@ -1,0 +1,48 @@
+<?php
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/**
+ * Product view template
+ *
+ * @var $block \Magento\Catalog\Block\Product\View
+ */
+?>
+<?php $_helper = $this->helper('Magento\Catalog\Helper\Output'); ?>
+<?php $_product = $block->getProduct(); ?>
+
+<div class="product-add-form">
+<?php 
+												
+	$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+
+  $listBlock = $objectManager->get('\Magento\Catalog\Block\Product\ListProduct');
+
+  $postParams =  $listBlock->getAddToCartPostParams($_product);				
+	?>
+    <form data-role="tocart-form" action="<?php /* @escapeNotVerified */ echo $postParams['action']; ?>" method="post" id="product_addtocart_form" novalidate="novalidate">
+      <input type="hidden" name="product" value="<?php /* @escapeNotVerified */ echo $postParams['data']['product']; ?>">
+													
+
+<?php echo $block->getBlockHtml('formkey')?>
+
+        <?php echo $block->getChildHtml('form_top'); ?>
+        <?php if (!$block->hasOptions()):?>
+            <?php echo $block->getChildHtml('product_info_form_content'); ?>
+        <?php else:?>
+            <?php if ($_product->isSaleable() && $block->getOptionsContainer() == 'container1'):?>
+                <?php echo $block->getChildChildHtml('options_container') ?>
+            <?php endif;?>
+        <?php endif; ?>
+
+        <?php if ($_product->isSaleable() && $block->hasOptions() && $block->getOptionsContainer() == 'container2'):?>
+            <?php echo $block->getChildChildHtml('options_container') ?>
+        <?php endif;?>
+        <?php echo $block->getChildHtml('form_bottom'); ?>
+
+    </form>
+</div>

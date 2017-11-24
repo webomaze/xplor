@@ -1,0 +1,66 @@
+<?php
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/** @var $block \Magento\Catalog\Block\Product\View */
+?>
+<?php $_product = $block->getProduct(); ?>
+<?php $buttonTitle = __('Add to Cart'); ?>
+<?php if ($_product->isSaleable()): ?>
+<div class="box-tocart">
+    <div class="fieldset">
+        <?php if ($block->shouldRenderQuantity()): ?>
+        <div class="field qty">
+            <label class="label" for="qty"><span><?php /* @escapeNotVerified */ echo __('Qty') ?></span></label>
+            <div class="control">
+                <input type="number"
+                       name="qty"
+                       id="qty"
+                       maxlength="12"
+                       value="<?php /* @escapeNotVerified */ echo $block->getProductDefaultQty() * 1 ?>"
+                       title="<?php /* @escapeNotVerified */ echo __('Qty') ?>" class="input-text qty"
+                       data-validate="<?php echo $block->escapeHtml(json_encode($block->getQuantityValidators())) ?>"
+                       />
+            </div>
+        </div>
+        <?php endif; ?>
+        <div class="actions">
+            
+            <?php $postParams = $block->getAddToCartPostParams($_product); ?>
+												<a class="action tocompare">
+                                                <form data-role="tocart-form" action="<?php /* @escapeNotVerified */ echo $postParams['action']; ?>" method="post">
+                                                    <input type="hidden" name="product" value="<?php /* @escapeNotVerified */ echo $postParams['data']['product']; ?>">
+                                                    <input type="hidden" name="<?php /* @escapeNotVerified */ echo \Magento\Framework\App\Action\Action::PARAM_NAME_URL_ENCODED; ?>" value="<?php /* @escapeNotVerified */ echo $postParams['data'][\Magento\Framework\App\Action\Action::PARAM_NAME_URL_ENCODED]; ?>">
+                                                    <?php echo $block->getBlockHtml('formkey')?>
+                                                    <button type="submit"
+                                                            class="tocart primary">
+                                                         <span class="icon ic ic-cart"></span>
+                                                    </button>
+                                                </form>
+												</a>
+        </div>
+    </div>
+</div>
+<?php endif; ?>
+<script type="text/x-magento-init">
+    {
+        "#product_addtocart_form": {
+            "Magento_Catalog/product/view/validation": {
+                "radioCheckboxClosest": ".nested"
+            }
+        }
+    }
+</script>
+<?php if (!$block->isRedirectToCartEnabled()) : ?>
+    <script type="text/x-magento-init">
+    {
+        "[data-role=tocart-form], .form.map.checkout": {
+            "catalogAddToCart": {}
+        }
+    }
+    </script>
+<?php endif; ?>
