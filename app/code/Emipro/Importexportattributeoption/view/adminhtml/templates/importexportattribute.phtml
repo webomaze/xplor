@@ -1,0 +1,90 @@
+<script type="text/javascript">
+    function btnshow()
+    {
+        var btn = document.getElementById('importbtn');
+        var x1 = document.getElementById('select_attribute').value;
+        if (x1 == "")
+            btn.style.visibility = "hidden";
+        else
+            btn.style.visibility = "visible";
+    }
+    function importdd()
+    {
+        var eID = document.getElementById("select_attribute"); 
+        var dayVal = eID.options[eID.selectedIndex].value; 
+        var daytxt = eID.options[eID.selectedIndex].text;
+        var url = '<?php echo $block->getExporturl(); ?>' + 'attribute' + '/' + dayVal + '/' + 'attributename' + '/' + daytxt;
+
+        window.location.assign(url);
+    }
+</script>
+<form id="edit_form" name="edit_form" method="POST" action="<?php echo __($block->getImporturl()); ?>" enctype="multipart/form-data" data-mage-init='{"validation": {"errorClass": "mage-error"}}' novalidate="novalidate">
+    <input name="form_key" type="hidden" value="<?php echo __($block->getFormKey()); ?>" />
+    <div class="page-main-actions">    
+        <div class="page-actions" >
+            <div class="page-actions-inner" data-title="Magento Admin">
+                <div class="page-actions-buttons">
+                    <button class="action tocart primary" type="submit">
+                        <span class="ui-button-text"><span>Import Attribute Options</span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="page:main-container" class="page-columns">
+        <div class="admin__old">
+            <div id="container" class="main-col">
+            <div>
+                <div data-bind="scope: 'employee_form.employee_form'" class="entry-edit form-inline">
+                    <div class="fieldset-wrapper">
+                        <div class="admin__fieldset-wrapper-content _hide" >
+                            <fieldset class="admin__fieldset" >
+                                <div class="admin__field _required" >
+                                    <label class="admin__field-label" >
+                                        <span>Select Attribute</span>
+                                    </label>
+                                    <div class="admin__field-control" style="position: relative;">
+                                        <?php $options = $block->getSelectAttributes(); ?>
+                                        <select class="admin__control-select required-entry" name="attribute" id="select_attribute" onchange="btnshow()">
+                                            <option value="">-- Select Attribute --</option>
+                                            <?php foreach ($options as $item): ?>
+                                                <option value="<?php echo $item["code"] ?>"><?php echo __($item["label"]); ?></option>
+                                            <?php endforeach; ?>
+                                        </select>
+                                        <button id="importbtn" title="Export Attribute options" type="button" class="form-button" onclick="importdd()" style="visibility:hidden; position: absolute; right: 0px; top: 0px;">
+                                            <span>Export Attribute options</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="admin__field _required">
+                                    <label class="admin__field-label" >
+                                        <span>Select CSV File</span>
+                                    </label>
+                                    <div class="admin__field-control" >
+                                        <div class="file-uploader" >
+                                            <input type="file" name="fileToUpload" class="required-entry" id="fileToUpload" accept=".csv">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="admin__field _required">
+                                    <label class="admin__field-label">
+                                        <span>Select Delimiter</span>
+                                    </label>
+                                    <div class="admin__field-control">
+                                        <select class="admin__control-select" name="delimiter">
+                                            <option data-title="Comma(,)" value="comma">Comma(,)</option>
+                                            <option data-title="Semicolon(;)" value="semicolon">Semicolon(;)</option>
+                                            <option data-title="Colon(:)" value="colon">Colon(:)</option>
+                                            <option data-title="Pipe(|)" value="pipe">Pipe(|)</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</form>

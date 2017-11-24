@@ -1,0 +1,15 @@
+<?php // Get current product
+$product = $block->getProduct();
+?>
+<div class="value"><?php echo $product->getData('features'); ?></div>
+
+<script>
+ require(['jquery'],function($){
+jQuery(document).ready(function() {
+if(jQuery('#features_tab .value').is(':empty'))
+{
+	jQuery('#features_tab').prev().css('display','none')
+}
+});
+}); 
+</script>

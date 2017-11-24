@@ -1,0 +1,194 @@
+
+/**
+ * Copyright © 2016 Wyomind. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+
+/* ======== Main config ======= */
+
+#custom_rules {
+    display:none;
+}
+div.CodeMirror {
+    border: 1px solid #ADA89E;
+    border-radius: 2px;
+    height:auto;
+    width: 660px;
+    min-height: 150px;
+}
+
+/* ======== Cron task ======= */
+.data-grid-checkbox-cell-inner.selected {
+    color:green;
+    font-weight: bold;
+}
+
+div#cron-setting table {
+    width:100%;
+    border-collapse: collapse;
+}
+div#cron-setting > table th {
+    background: #514943 none repeat scroll 0 0 !important;
+    color: white;
+    padding: 5px;
+}
+
+div#cron-setting > table {
+    border-right: 1px solid #f7f3eb;
+}
+
+div#cron-setting table tr > td {
+    border-left:1px solid #f7f3eb;
+    border-right:none !important;
+}
+div#cron-setting table td {
+    border-right:1px solid #f7f3eb;
+    border-bottom:1px solid #f7f3eb;
+}
+
+div#cron-setting table td.hours {
+    padding:0px;
+    border:none !important;
+}
+
+div#cron-setting table table {
+    border:none !important;
+}
+div#cron-setting table table td {
+    width:25%;
+    border-right:1px solid #f7f3eb;
+    border-bottom:1px solid #f7f3eb;
+}
+
+/* ======== mapping preview ======= */
+
+
+#mapping-preview{
+    border:1px solid grey;
+    border-right:0px solid grey;
+    margin:20px 0;
+}
+#mapping-preview THEAD{
+    margin:0;
+    padding:0;
+}
+#mapping-preview TH{
+    background-color:#514943;
+    color:white;
+    border-right:1px solid grey;
+    min-width: 150px;
+    text-align: center;
+    padding:2px;
+}
+#mapping-preview TH.rule-id{
+    background-color:#ADA89E;
+    color:white;
+    border-right:1px solid grey;
+    min-width: 150px;
+    text-align: center;
+    padding:2px;
+}
+
+
+#mapping-preview TD {
+    border:1px solid grey;
+    border-left:0px solid grey;
+    border-bottom:0px solid grey;
+    padding:5px;
+    text-align:right;
+}
+#mapping-preview TD.sku{
+    color:#514943;
+    text-align:left;
+    background:#EFEFEF;
+    font-weight:bold;
+}
+
+
+#mapping-preview SELECT{
+    width:95%;
+}
+
+.previous{
+    color:grey; 
+    font-size:10px;
+}
+.dynamic{
+    color:green; 
+    font-weight:"bold";
+}
+
+/* ======= Category Mapping =====*/
+
+
+.category-mapping-value{
+    font-weight: bold;
+    display: block;
+    vertical-align: middle;
+
+}
+.category-mapping-row {
+    margin-bottom:20px;
+}
+.category-mapping-select SELECT{
+    display: block;
+    height:150px;
+    margin-left:20px;
+}
+
+/* ======== Global ======= */
+
+/* delete button */
+button#delete span {
+    color:red !important;
+}
+
+
+/* ======== Default Values ======= */
+#new-default-value{
+    text-decoration:none;
+
+}
+.default-value{
+    margin:20px;
+    position:relative;
+}
+.default-value TEXTAREA,.default-value SELECT{
+    margin-right:10px;
+    vertical-align: top; 
+    display:inline;
+    background:none!important;
+}
+.default-value SELECT.attribute{
+    margin-left:80px; 
+    max-width:362px;
+}
+
+.default-value LABEL{
+    width:370px;
+    font-weight:bold;
+
+    display:inline-block;
+}
+.default-value LABEL:nth-child(1){
+    margin-left:80px;
+}
+
+.default-value .column{
+    position: absolute;
+    font-size: 13px;
+    font-weight: bold;
+    top: 50%;
+}
+
+.default-value TEXTAREA{
+    height: 210px;
+    width:250px
+}
+.default-value .remove-default-value{
+
+    top: 50%;
+    position: absolute;
+
+    margin-top: -15px;
+}

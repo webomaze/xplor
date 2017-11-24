@@ -1,0 +1,222 @@
+<?php
+/**
+ * Copyright � 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+?>
+<?php
+/**
+ * @var $block \Magento\Reports\Block\Product\Viewed
+ */
+?>
+
+<?php
+if ($exist = ($block->getProductCollection() && $block->getProductCollection()->getSize())) {
+	$type = 'widget-viewed';
+	$mode = 'grid';
+	$productsliderId = $block->getUniqueSliderKey();
+	$type = $type . '-' . $mode;
+
+	$image = 'recently_viewed_products_grid_content_widget';
+	$title = $block->getConfigValue('heading');
+	$items = $block->getProductCollection();
+	
+	$info  = $block->getConfigValue('description');
+
+	$showWishlist = true;
+	$showCompare = true;
+	$showCart = true;
+	$rating = 'short';
+	$description = ($mode == 'list') ? true : false;
+
+}
+?>
+<?php if ($exist):?>
+	<?php if ($title): ?>
+	<div class="mp-product-slider-block block widget block-products-list <?php echo $mode; ?>">
+	<h2 class="mp-product-slider-title"><?php echo $title; ?></h2>
+	<?php endif;?>
+	<p class="mp-ps-info"><?php echo $info; ?></p>
+			</div>
+        <div class="block-content">
+            <?php /* @escapeNotVerified */ echo '<!-- ' . $image . '-->' ?>
+			<div class="products-<?php /* @escapeNotVerified */ echo $mode; ?> <?php /* @escapeNotVerified */ echo $mode; ?>">
+                <ol class="product-items <?php /* @escapeNotVerified */ echo $type; ?>">
+                    <?php $iterator = 1; ?>
+					<div class="owl-carousel mageplaza-product-slider" id="mageplaza-product-slider-<?php echo $productsliderId; ?>">
+					<?php foreach ($items as $_item): ?>
+						<?php /* @escapeNotVerified */ echo($iterator++ == 1) ? '<div class="products grid">' : '</div><div class="products grid">' ?>
+					<div class="product-item-sp product-item">
+						<div class="product-item-info">
+						<div class="product-item-img">
+                            <a href="<?php /* @escapeNotVerified */ echo $block->getProductUrl($_item) ?>" class="product photo product-item-photo">
+                                <?php echo $block->getImage($_item, $image)->toHtml(); ?>
+                            </a>
+							<?php if ($rating): ?>
+									<?php echo $block->getReviewsSummaryHtml($_item, $rating) ?>
+								<?php endif; ?>
+								<?php if ($showWishlist || $showCompare || $showCart): ?>
+									
+                                        <?php if ($showCart): ?>
+										<div data-role="add-to-links" class="actions-secondary addto-links addto-links-icons addto-onimage">
+                                                <?php if ($_item->isSaleable()): ?>
+													<?php //if (!$_product->canConfigure() && $_product->isSaleable()): ?>
+                                                <?php 
+												
+	$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+
+  $listBlock = $objectManager->get('\Magento\Catalog\Block\Product\ListProduct');
+
+  $postParams =  $listBlock->getAddToCartPostParams($_item);				
+												
+												
+												//$postParams = $block->getAddToCartPostParams($_item); ?>
+													<form data-role="tocart-form" action="<?php /* @escapeNotVerified */ echo $postParams['action']; ?>" method="post">
+                                                    <input type="hidden" name="product" value="<?php /* @escapeNotVerified */ echo $postParams['data']['product']; ?>">
+													
+                                                    <input type="hidden" name="<?php /* @escapeNotVerified */ echo \Magento\Framework\App\Action\Action::PARAM_NAME_URL_ENCODED; ?>" value="<?php /* @escapeNotVerified */ echo $postParams['data'][\Magento\Framework\App\Action\Action::PARAM_NAME_URL_ENCODED]; ?>">
+													
+                                                    <?php echo $block->getBlockHtml('formkey')?>
+                                                    <button type="submit"
+                                                            class="tocart primary">
+                                                         <span class="icon ic ic-cart"></span>
+                                                    </button>
+                                                </form>
+													
+												<?php else: ?>
+													<?php if ($_item->getIsSalable()): ?>
+														<div class="stock available"><span><?php /* @escapeNotVerified */ echo __('In stock') ?></span></div>
+													<?php else: ?>
+														<div class="stock unavailable"><span><?php /* @escapeNotVerified */ echo __('Out of stock') ?></span></div>
+													<?php endif; ?>
+												<?php endif; ?>
+												
+<?php if ($showWishlist || $showCompare): ?>
+										
+                                                <?php if ($this->helper('Magento\Wishlist\Helper\Data')->isAllow() && $showWishlist): ?>
+													<a href="#"
+													   class="action towishlist tocart primary" data-action="add-to-wishlist"
+													   data-post='<?php /* @escapeNotVerified */ echo $block->getAddToWishlistParams($_item); ?>'
+													   title="<?php /* @escapeNotVerified */ echo __('Add to Wish List') ?>">
+                                                        <?php /* @escapeNotVerified */ //echo __('Add to Wish List') ?>
+														<span class="icon ic ic-cart"></span>
+														
+                                                    </a>
+												<?php endif; ?>
+												<?php if ($block->getAddToCompareUrl() && $showCompare): ?>
+													<?php $compareHelper = $this->helper('Magento\Catalog\Helper\Product\Compare');?>
+													<a href="#" class="action tocompare tocart primary"
+													   data-post='<?php /* @escapeNotVerified */ echo $compareHelper->getPostDataParams($_item);?>'
+													   title="<?php /* @escapeNotVerified */ echo __('Add to Compare') ?>">
+                                                        <?php /* @escapeNotVerified */ //echo __('Add to Compare') ?>
+														<span class="icon ic ic-cart"></span>
+                                                    </a>
+												<?php endif; ?>
+												<!--<div class="product-QuickShop">	
+		<?php //echo $this->helper('Codazon\QuickShop\Helper\Data')->getQuickShopButton($_item)?>
+		</div>-->
+		<?php 
+								$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+								$storeManager = $objectManager->get('\Magento\Store\Model\StoreManagerInterface');
+								$base_url = $storeManager->getStore()->getBaseUrl();
+								$id = $_item->getId();
+								$quickShopUrl = $base_url.'quickview/index/view/id/'.$id;
+								$quickShopLabel = "Quick View";
+							?>
+							<a class="qs-button show-tooltip" href="javascript:void(0)" data-href="<?php echo $quickShopUrl ?>" title="<?php echo $quickShopLabel ?>">
+							<!--javascript:void(0)-->
+			                <span class="icon ib ib-hover ic ic-compare "></span><span class="label"><?php echo $quickShopLabel; ?></span></span></a>
+                                     
+										<?php endif; ?>
+		
+                                    </div>
+								<?php endif; ?>												
+												
+                                         
+										<?php endif; ?>
+										
+											
+						</div>
+                            <div class="product details product-item-details">
+                                <strong class="product name product-item-name">
+                                    <a title="<?php echo $block->escapeHtml($_item->getName()) ?>"
+									   href="<?php /* @escapeNotVerified */ echo $block->getProductUrl($_item) ?>" class="product-item-link">
+                                        <?php echo $block->escapeHtml($_item->getName()) ?>
+                                    </a>
+                                </strong>
+								<?php /* @escapeNotVerified */ echo $block->getProductPriceHtml(
+									$_item,
+									\Magento\Catalog\Pricing\Price\FinalPrice::PRICE_CODE,
+									\Magento\Framework\Pricing\Render::ZONE_ITEM_LIST,
+									[
+										'price_id_suffix' => '-' . $type
+									]
+								) ?>
+								
+                            </div>
+                        </div>
+				    </div>
+						<?php echo($iterator == count($items)+1) ? '</div>' : '' ?>
+					<?php endforeach ?>
+					</div>
+                </ol>
+            </div>
+			<?php echo $block->getPagerHtml() ?>
+        </div>
+ <script type="text/javascript">
+//<![CDATA[
+requirejs(['jquery','owlcarousel'], function(jQuery, owlcarousel){ //
+
+    jQuery(function($) {
+        
+        var owl = $('#mageplaza-product-slider-<?php echo $productsliderId;?>');
+        owl.owlCarousel({
+				 lazyLoad: true,
+                 
+                                    itemsCustom: [ [1200,4], [320,1], [480,3] ],
+                    responsiveRefreshRate: 50,
+                 
+                                    slideSpeed: 200,
+                 
+                                    paginationSpeed: 500,
+                 
+                                    scrollPerPage: true,
+                 
+                 
+                                    stopOnHover: true,
+                 
+                                    rewindNav: true,
+                    rewindSpeed: 600,
+                 
+                                    pagination: false,
+                                    navigation: true,
+                    navigationText: false			
+			});
+		});
+});			
+//]]>		
+	</script>
+
+<?php endif;?>
+<style>
+.owl-carousel .product-item-info {
+	width: 100% !important;
+}
+.product-item-sp{
+padding: 0px 10px 0px 10px;	
+}
+.owl-carousel .owl-wrapper{
+	display:block !important;
+}
+</style>
+<?php if (!$block->isRedirectToCartEnabled()) : ?>
+    <script type="text/x-magento-init">
+    {
+        "[data-role=tocart-form], .form.map.checkout": {
+            "catalogAddToCart": {}
+        }
+    }
+    </script>
+<?php endif; ?>

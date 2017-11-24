@@ -1,0 +1,43 @@
+<div class="block block-toprated" data-bind="scope: 'toprated'">
+        <div class="block-title">
+            <strong>Top Rating Products</strong>
+        </div>
+	<div class="block-content">
+		<?php 
+		$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+		$reviewFactory = $objectManager->get(\Magento\Review\Model\ReviewFactory::class);
+		$storeManager = $objectManager->get(\Magento\Store\Model\StoreManagerInterface::class);
+		$productCollection = $objectManager->create('Magento\Catalog\Model\ResourceModel\Product\CollectionFactory');
+		$collection = $productCollection->create()
+        ->addAttributeToSelect('*')
+        ->load();
+		$blockObj = $block->getLayout()->createBlock('Magento\Catalog\Block\Product\ListProduct');	
+		$ratings = array();
+		foreach ($collection as $product) {
+				$reviewFactory->create()->getEntitySummary($product, $storeManager->getStore()->getId());
+				$ratingSummary = $product->getRatingSummary()->getRatingSummary();
+				$_reviewCount  = $product->getRatingSummary()->getReviewsCount();				if($ratingSummary){ 
+						$ratings[] = array("product" =>$product->getId() , "rating" =>$ratingSummary); 	
+				}					}
+		usort($ratings, function($a,$b) {
+			if($a['rating'] === $b['rating']) return 0;
+			return ($a['rating'] > $b['rating']) ? -1 : 1;
+		});		$i=0; 
+		foreach($ratings as $rating) 		{				if($i==5) break;
+			$productid = $rating['product'];
+			$ratingSummaryLoop = (int)$rating['rating'];
+			$ratingInStar = $ratingSummaryLoop/100*5;
+			$productLoad = $objectManager->get('Magento\Catalog\Model\Product')->load($productid);		
+		    ?>
+			<div class="product-reviews-summary short">											<div class="top-part">					 <div class="product-star-toprated"><?php echo $ratingInStar; ?></div>					 <div class="product-image-toprated">						<img src="<?php echo $blockObj->getImage($productLoad, 'category_page_list')->getImageUrl(); ?>" alt="<?php echo $productLoad->getName(); ?>" />					</div>
+				</div>				<div class="content-part">
+					<a href="<?php echo $productLoad->getProductUrl(); ?>"><div class="product-name-toprated"><?php echo $productLoad->getName(); ?> </div>	</a>				
+						<div class="rating-summary">
+							<div title="<?php echo (int)$ratingSummaryLoop; ?>%" class="rating-result">
+								<span style="width:<?php echo (int)$ratingSummaryLoop; ?>%"><span><?php echo (int)$ratingSummaryLoop; ?>%</span></span>
+							</div>
+						</div>						<div class="price-toprated"><?php echo "$".$productLoad->getFinalPrice(); ?> </div>			
+				</div>			</div>	
+		<?php $i++; } ?>
+	</div>
+</div>		

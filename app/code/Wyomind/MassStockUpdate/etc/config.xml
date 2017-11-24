@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Core/etc/config.xsd">
+    <default>
+        <massstockupdate>
+            <license>
+                <extension_label>Mass Stock Update</extension_label>
+                <extension_version>5.0.0.6</extension_version>
+                <extension_code>msi</extension_code>
+                <get_online_license>1</get_online_license>
+            </license>
+          
+            <settings>
+                <log>0</log>
+                <nb_preview>1000</nb_preview>
+            </settings>
+        </massstockupdate>
+    </default>
+</config>

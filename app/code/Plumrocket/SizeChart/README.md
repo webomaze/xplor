@@ -1,0 +1,1 @@
+Size Chart extension for Magento 2

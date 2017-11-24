@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Plumrocket Inc.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the End-user License Agreement
+ * that is available through the world-wide-web at this URL:
+ * http://wiki.plumrocket.net/wiki/EULA
+ * If you are unable to obtain it through the world-wide-web, please
+ * send an email to support@plumrocket.com so we can send you a copy immediately.
+ *
+ * @package     Plumrocket_SizeChart
+ * @copyright   Copyright (c) 2015 Plumrocket Inc. (http://www.plumrocket.com)
+ * @license     http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="jquery/fileUploader/css/jquery.fileupload-ui.css"/>
+    </head>
+    <update handle="editor"/>
+    <body>
+        <referenceContainer name="content">
+            <block class="Plumrocket\SizeChart\Block\Adminhtml\Sizechart\Edit" name="prsizechart.edit" />
+        </referenceContainer>
+        <referenceContainer name="left">
+            <block class="Plumrocket\SizeChart\Block\Adminhtml\Sizechart\Edit\Tabs" name="prsizechart.edit.tabs">
+                <block class="Plumrocket\SizeChart\Block\Adminhtml\Sizechart\Edit\Tab\Main" name="prsizechart.edit.tab.main"/>
+                <block class="Plumrocket\SizeChart\Block\Adminhtml\Sizechart\Edit\Tab\Rules" name="prsizechart.edit.tab.rules"/>
+                <action method="addTab">
+                    <argument name="name" xsi:type="string">main_section</argument>
+                    <argument name="block" xsi:type="string">prsizechart.edit.tab.main</argument>
+                </action>
+                <action method="addTab">
+                    <argument name="name" xsi:type="string">rules_section</argument>
+                    <argument name="block" xsi:type="string">prsizechart.edit.tab.rules</argument>
+                </action>
+            </block>
+        </referenceContainer>
+    </body>
+</page>

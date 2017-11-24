@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Plumrocket Inc.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the End-user License Agreement
+ * that is available through the world-wide-web at this URL:
+ * http://wiki.plumrocket.net/wiki/EULA
+ * If you are unable to obtain it through the world-wide-web, please
+ * send an email to support@plumrocket.com so we can send you a copy immediately.
+ *
+ * @package     Plumrocket_SizeChart
+ * @copyright   Copyright (c) 2015 Plumrocket Inc. (http://www.plumrocket.com)
+ * @license     http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+
+        <add id="Plumrocket_SizeChart::sizechart" title="Size Chart" module="Plumrocket_SizeChart" parent="Plumrocket_Base::elements" sortOrder="11259138" resource="Plumrocket_SizeChart::sizechart" action="prsizechart/sizechart/"/>
+
+        <add id="Plumrocket_SizeChart::sizechart_manage" title="Manage Size Charts" module="Plumrocket_SizeChart" parent="Plumrocket_SizeChart::sizechart" sortOrder="10" action="prsizechart/sizechart/" resource="Plumrocket_SizeChart::sizechart"/>
+
+        <add id="Plumrocket_SizeChart::sizechart_configuration" title="Configuration" module="Plumrocket_SizeChart" parent="Plumrocket_SizeChart::sizechart" sortOrder="20" action="adminhtml/system_config/edit/section/prsizechart" resource="Plumrocket_SizeChart::config_sizechart"/>
+    </menu>
+</config>

@@ -1,0 +1,10233 @@
+
+<products>
+<product>
+  <id>24-MB01</id>
+  <status>in stock</status>
+  <qty>3</qty>
+</product>
+<product>
+  <id>24-MB04</id>
+  <status>in stock</status>
+  <qty>58</qty>
+</product>
+<product>
+  <id>24-MB03</id>
+  <status>in stock</status>
+  <qty>74</qty>
+</product>
+<product>
+  <id>24-MB05</id>
+  <status>in stock</status>
+  <qty>40</qty>
+</product>
+<product>
+  <id>24-MB06</id>
+  <status>in stock</status>
+  <qty>72</qty>
+</product>
+<product>
+  <id>24-MB02</id>
+  <status>out of stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>24-UB02</id>
+  <status>out of stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB01</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB02</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB05</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB06</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB03</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WB07</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>24-WB04</id>
+  <status>in stock</status>
+  <qty>99</qty>
+</product>
+<product>
+  <id>24-UG06</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-UG07</id>
+  <status>in stock</status>
+  <qty>8</qty>
+</product>
+<product>
+  <id>24-UG04</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-UG02</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-UG05</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-UG01</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG084</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG088</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-UG03</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG081-gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG081-pink</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG081-blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG082-gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG082-pink</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG082-blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG083-gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG083-pink</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG083-blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG085</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG086</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG087</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-MG04</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-MG01</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-MG03</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-MG05</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-MG02</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG09</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG01</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG03</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>24-WG02</id>
+  <status>in stock</status>
+  <qty>99</qty>
+</product>
+<product>
+  <id>240-LV04</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>240-LV05</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>240-LV06</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>240-LV07</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>240-LV08</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>240-LV09</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>24-WG080</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+<product>
+  <id>MH01-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH02-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH03-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH04-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH05-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH06-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH07-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH08-XS-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-S-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-M-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-L-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-XL-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH10-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH11-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MH13-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-XS-Lavender</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-S-Lavender</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-M-Lavender</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-L-Lavender</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13-XL-Lavender</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MH13</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ01-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ02-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ04-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ07-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ08-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ10-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ11-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ06-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ03-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MJ12-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MJ12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS04-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS05-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS09-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS11-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS12-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS03-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS06-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS01-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-XS-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-S-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-M-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-L-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-XL-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS02-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS10-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS07-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MS08-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MS08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MT01-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MT02-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MT03-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>MT04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT04</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT05-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT05-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT05-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT05-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT05-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT05</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT06-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT06-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT06-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT06-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT06-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT06</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT07-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT07-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT07-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT07-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT07-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT07</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT08-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT08-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT08-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT08-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT08-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT08</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT09</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT10-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT10-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT10-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT10-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT10-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT10</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT11-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT11-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT11-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT11-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT11-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT11</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MT12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MT12</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>MP01-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-33-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-34-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01-36-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP01</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP02-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP02</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP03-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP03</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP04-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP04</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP05-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP05</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP06-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-32-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-33-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-34-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06-36-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP06</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP07-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-33-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-34-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07-36-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP07</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP08-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP08</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP09-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP09</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP10-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP10</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP11-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-32-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-33-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-34-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-36-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP11</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MP12-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MP12</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH01-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH01</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH02-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH02-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH02-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH02-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH02</id>
+  <status>in stock</status>
+  <qty>400</qty>
+</product>
+<product>
+  <id>MSH03-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH03</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH04-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-32-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-33-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-33-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-34-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-34-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-36-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04-36-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH04</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH05-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH05</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH06-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH06</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH07-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-33-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-34-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07-36-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH07</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH08-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH08</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH09-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH09</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH10-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-33-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-33-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-34-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-34-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-36-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10-36-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH10</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH11-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-33-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-34-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-36-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH11</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>MSH12-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-33-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-33-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-33-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-34-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-34-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-34-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-36-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-36-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12-36-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>MSH12</id>
+  <status>in stock</status>
+  <qty>1200</qty>
+</product>
+<product>
+  <id>WH01-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH02-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH05-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH06-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH06-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH06-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH06-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH06-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH06</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>WH07-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH08-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH09-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH10-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH11-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WH12-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WH12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ01-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ01</id>
+  <status>in stock</status>
+  <qty>900</qty>
+</product>
+<product>
+  <id>WJ02-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ03-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ04-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ05-XS-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-S-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-M-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-L-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-XL-Brown</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ07-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ08-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ10-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ11-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ06-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WJ12-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WJ12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS02-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS03-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-XS-Red</id>
+  <status>in stock</status>
+  <qty>99</qty>
+</product>
+<product>
+  <id>WS03-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS03</id>
+  <status>in stock</status>
+  <qty>1499</qty>
+</product>
+<product>
+  <id>WS04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS06-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS07-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS08-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-XS-Blue</id>
+  <status>in stock</status>
+  <qty>99</qty>
+</product>
+<product>
+  <id>WS08-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS08</id>
+  <status>in stock</status>
+  <qty>1499</qty>
+</product>
+<product>
+  <id>WS09-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS10-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS10</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS11-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS11</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS12-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS01-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WS05-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WS05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WB01-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-XS-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-S-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-M-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-L-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-XL-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WB02-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WB03-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WB04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WB05-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WB05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT01-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT02-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT03-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT04-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT05-XS-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-S-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-M-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-L-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-XL-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT06-XS-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-XS-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-S-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-S-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-M-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-M-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-L-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-L-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-XL-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-XL-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT06</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT07-XS-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-S-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-M-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-L-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-XL-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT07</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT08-XS-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-S-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-M-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-L-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-XL-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT08</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WT09-XS-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-XS-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-XS-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-S-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-S-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-S-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-M-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-M-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-M-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-L-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-L-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-L-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-XL-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-XL-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09-XL-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WT09</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WP01-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01-28-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01-29-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP01</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP02-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP02</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP03-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP03</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP04-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04-28-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04-29-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP04</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP05-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP05</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP06-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP06</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP07-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP07</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP08-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP08</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP09-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP09</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP10-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10-28-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10-29-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP10</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP11-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP11</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP12-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP12</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WP13-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WP13</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH01-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-30-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-30-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-30-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-31-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-31-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-31-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH01</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WSH02-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-28-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-29-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-30-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-30-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-30-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-31-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-31-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-31-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-32-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02-32-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH02</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WSH03-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-30-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-30-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-30-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-31-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-31-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-31-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-32-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03-32-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH03</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WSH04-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-30-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-30-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-30-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-31-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-31-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-31-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-32-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04-32-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH04</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WSH05-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-28-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-29-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-30-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-30-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-30-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-31-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-31-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-31-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-32-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05-32-Yellow</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH05</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>WSH06-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH06</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH07-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH07</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH08-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH08-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH08-30-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH08-31-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH08-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH08</id>
+  <status>in stock</status>
+  <qty>500</qty>
+</product>
+<product>
+  <id>WSH09-28-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09-28-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09-29-Gray</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09-29-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH09</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH10-28-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10-28-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10-29-Black</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10-29-White</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH10</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH11-28-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11-28-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11-29-Blue</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11-29-Orange</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH11</id>
+  <status>in stock</status>
+  <qty>600</qty>
+</product>
+<product>
+  <id>WSH12-28-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-28-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-28-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-29-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-29-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-29-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-30-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-30-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-30-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-31-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-31-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-31-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-32-Green</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-32-Purple</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12-32-Red</id>
+  <status>in stock</status>
+  <qty>100</qty>
+</product>
+<product>
+  <id>WSH12</id>
+  <status>in stock</status>
+  <qty>1500</qty>
+</product>
+<product>
+  <id>24-WG085_Group</id>
+  <status>in stock</status>
+  <qty>0</qty>
+</product>
+</products>

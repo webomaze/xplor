@@ -1,0 +1,61 @@
+<?php
+/**
+ * Plumrocket Inc.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the End-user License Agreement
+ * that is available through the world-wide-web at this URL:
+ * http://wiki.plumrocket.net/wiki/EULA
+ * If you are unable to obtain it through the world-wide-web, please
+ * send an email to support@plumrocket.com so we can send you a copy immediately.
+ *
+ * @package     Plumrocket_SizeChart
+ * @copyright   Copyright (c) 2016 Plumrocket Inc. (http://www.plumrocket.com)
+ * @license     http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ */
+?>
+
+<?php
+	$sizechart = $this->getSizeChart();
+	$content = $this->getContent();
+?>
+
+<?php if ($sizechart && $content) { ?>
+	<?php if ($sizechart->getDisplayType()) { ?>
+
+	<div id="pschart-showsizes-onpage" class="pschart-showsizes">
+		<div class="pschart-content" >
+			<?php echo $content ?>
+		</div>
+	</div>
+
+	<?php } else { ?>
+	<?php $sizeChartId = $sizechart->getId(); ?>
+	<div id="pschart-showsizes-holder">
+		<div id="pschart-showsizes" class="pschart-showsizes pschart-showsizes-<?php echo $sizeChartId ?>">
+			<div class="pschart-addedoverlay"></div>
+			<div class="pschart-popup">
+				<div class="pschart-popup-internal">
+					<div class="pschart-content">
+						<div class="close pschart-sizechart-link-close" >&#10005;</div>
+						<?php echo $content ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="javascript: void(0);"
+		 <?php if (!$block->getDiscardMovingButton()) { ?>style="display:none"<?php } ?>
+		class="pschart-sizechart-link pschart-sizechart-link-<?php echo $sizeChartId ?>">
+		<?php echo __($this->getLabel()) ?>
+	</a>
+	<script type="text/x-magento-init">
+    {
+        "#pschart-showsizes-holder": {
+            "Magento_Ui/js/core/app": <?php /* @escapeNotVerified */ echo $block->getJsLayout();?>
+        }
+    }
+	</script>
+	<?php } ?>
+<?php } ?>

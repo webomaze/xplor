@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Plumrocket Inc.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the End-user License Agreement
+ * that is available through the world-wide-web at this URL:
+ * http://wiki.plumrocket.net/wiki/EULA
+ * If you are unable to obtain it through the world-wide-web, please
+ * send an email to support@plumrocket.com so we can send you a copy immediately.
+ *
+ * @package     Plumrocket_SizeChart
+ * @copyright   Copyright (c) 2016 Plumrocket Inc. (http://www.plumrocket.com)
+ * @license     http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+	<head>
+        <css src="Plumrocket_SizeChart::css/sizechart.css"/>
+        <css src="Plumrocket_SizeChart::css/sizechart-custom.css"/>
+    </head>
+    <body>
+        <referenceContainer name="head.additional">
+            <block class="Plumrocket\SizeChart\Block\Style" name="prsizechart.style" template="Plumrocket_SizeChart::style.phtml" />
+        </referenceContainer>
+        <referenceBlock name="product.info.extrahint">
+            <block class="Plumrocket\SizeChart\Block\Sizechart" name="prsizechart" template="Plumrocket_SizeChart::sizechart.phtml">
+            	<arguments>
+	                <argument name="jsLayout" xsi:type="array">
+	                    <item name="components" xsi:type="array">
+	                        <item name="prsizechart.js" xsi:type="array">
+	                            <item name="component" xsi:type="string">Plumrocket_SizeChart/js/view/sizechart</item>
+	                        </item>
+	                    </item>
+	                </argument>
+	            </arguments>
+            </block>
+        </referenceBlock>
+    </body>
+</page>

@@ -1,0 +1,2 @@
+For installation Instructions please read our online documentation: 
+http://wiki.plumrocket.com/wiki/Magento_2_Size_Chart_v2.x_Installation

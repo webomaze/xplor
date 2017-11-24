@@ -1,0 +1,220 @@
+/**
+ * Plumrocket Inc.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the End-user License Agreement
+ * that is available through the world-wide-web at this URL:
+ * http://wiki.plumrocket.net/wiki/EULA
+ * If you are unable to obtain it through the world-wide-web, please
+ * send an email to support@plumrocket.com so we can send you a copy immediately.
+ *
+ * @package     Plumrocket_SizeChart
+ * @copyright   Copyright (c) 2016 Plumrocket Inc. (http://www.plumrocket.com)
+ * @license     http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ */
+
+#pschart-showsizes {
+	display:none;
+}
+
+.pschart-showsizes * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.pschart-sizechart-link {
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 12px;
+	height: 30px;
+	display: inline-block;
+	min-width: 130px;
+	line-height: 27px;
+	text-align: center;
+	background-repeat: no-repeat !important;
+	background-position: 9px 6px !important ;
+	padding-left: 35px;
+	padding-right: 15px;
+	margin: 10px 0 15px 0;
+	text-decoration: none;
+	-webkit-box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+	box-sizing: border-box;
+}
+
+.pschart-sizechart-link:hover {
+	cursor: pointer;
+	text-decoration: none;
+	opacity: 0.6;
+}
+
+.pschart-showsizes .pschart-addedoverlay {
+	left:0; top:0; width: 100%; height: 100%; position:fixed; z-index: 300; background: black; 
+	opacity: .75;  filter: alpha(opacity=75);   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75);
+}
+
+.pschart-showsizes .pschart-popup {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1050;
+	width: 100%;
+	height: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 15px;
+	overflow-y: auto;
+	text-align: center;
+}
+
+.pschart-showsizes .pschart-popup-internal {
+	margin: 10% auto 5% auto;
+	background-color: #FFFFFF;
+	padding: 30px;
+	min-width: 250px;
+	max-width: 800px;
+	display: inline-block;
+}
+
+.pschart-showsizes .pschart-content {
+	position: relative;
+	padding: 0;
+}
+
+.pschart-showsizes .pschart-popup-internal .close {
+	position: absolute;
+	right: -17px;
+	top: -19px;
+	font-size: 10px;
+	font-weight: 400;
+	color: #FFFFFF;
+	width: 15px;
+	height: 15px;
+	text-align: center;
+	line-height: 15px;
+	background-color: #a5a7a8;
+	font-size: 13px;
+}
+
+.pschart-showsizes .pschart-popup-internal .close:hover {
+	cursor: pointer;
+}
+
+.pschart-showsizes .pschart-popup-internal h3 {
+	font-size: 18px;
+	text-align: left;
+	margin: 15px 0 10px 0;
+	font-family: "Helvetica Neue", Verdana, Arial, sans-serif;
+	font-weight: 400;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+.pschart-showsizes .pschart-popup-internal p {
+	margin-bottom: 10px;
+	font-size: 12px;
+	text-align: left;
+}
+
+.pschart-showsizes .pschart-popup-internal .window-title {
+	color: #383838;
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 1;
+	padding: 0 0 15px;
+	text-align: left;
+	font-family: "Helvetica Neue", Verdana, Arial, sans-serif;
+}
+
+.pschart-showsizes .pschart-content .table_name {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.pschart-showsizes .pschart-content table td {
+	font-size: 12px;
+	text-align: left;
+	padding: 0 10px 0 0;
+	vertical-align: top;
+}
+
+.pschart-showsizes .pschart-content table.measure td p {
+	border-bottom: 1px dotted #8F8F8F;
+	padding-bottom: 10px;
+}
+
+.pschart-showsizes .pschart-content table.table_size {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.pschart-showsizes .pschart-content table tr th {
+	background-color: #e0e0de;
+}
+
+.pschart-showsizes .pschart-content table.table_size th {
+	border: 1px solid white;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 400;
+	padding: 5px;
+	font-size: 12px;
+	text-align: center;
+}
+
+.pschart-showsizes .pschart-content table.table_size td {
+	border: 1px solid white;
+	padding: 5px;
+	font-size: 11px;
+	line-height: 16px;
+	background: #f2f2f0;
+	text-align: center;
+}
+
+.pschart-showsizes .pschart-content table.table_size .size_name,
+.pschart-showsizes .pschart-content table.table_size td:nth-child(1) {
+	vertical-align: middle;
+	background-color: #ebebe8;
+	font-weight: 700;
+}
+
+
+.pschart-showsizes .pschart-content table.table_size p {
+	margin: 5px 0;
+	text-align: left;
+}
+
+.pschart-showsizes .pschart-content table.table_size td[colspan="6"] {
+	font-weight: 700;
+	text-transform: none;
+}
+
+@media screen and (max-width: 480px) {
+
+	.pschart-showsizes .pschart-popup-internal .close {
+		right: 0;
+		top: 0;
+	}
+
+	.pschart-showsizes .pschart-content table.table_size td {
+		text-transform: lowercase;
+		padding: 3px;
+	}
+
+}
+
+@media screen and (max-width: 400px) {
+
+	.pschart-showsizes .pschart-popup {
+		padding: 10px 5px;
+	}
+
+	.pschart-showsizes .pschart-popup-internal {
+		margin: 0px auto;
+		padding: 10px;
+	}
+
+}
