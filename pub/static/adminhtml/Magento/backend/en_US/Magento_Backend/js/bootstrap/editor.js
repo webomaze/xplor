@@ -1,0 +1,1 @@
+/home/d3m0web/public_html/xplor/vendor/magento/module-backend/view/adminhtml/web/js/bootstrap/editor.js

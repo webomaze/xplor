@@ -1,0 +1,1 @@
+/home/d3m0web/public_html/xplor/app/code/Infortis/Base/view/frontend/web/js/stickyheader.js
